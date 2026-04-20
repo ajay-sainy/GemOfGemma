@@ -11,7 +11,15 @@ A vibe coded sample Android app demonstrating what's possible with **on-device A
 
 ## 📸 Screenshots
 
-> _Coming soon_
+<p align="center">
+  <img src="screenshots/chat-home.png" width="220" alt="Chat Home" />
+  <img src="screenshots/chat-response.png" width="220" alt="Tool Calling" />
+  <img src="screenshots/thinking-mode.png" width="220" alt="Thinking Mode" />
+</p>
+<p align="center">
+  <img src="screenshots/image-caption.png" width="220" alt="Image Understanding" />
+  <img src="screenshots/tool-picker.png" width="220" alt="Tool Picker" />
+</p>
 
 ## What It Can Do
 
