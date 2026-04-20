@@ -1,0 +1,13 @@
+[
+  {
+    "assignment_id": "init-2026-04-18",
+    "universe": "seinfeld",
+    "timestamp": "2026-04-18T00:00:00Z",
+    "agents": [
+      { "name": "Jerry", "role": "Lead" },
+      { "name": "George", "role": "Android Dev" },
+      { "name": "Elaine", "role": "ML Engineer" },
+      { "name": "Kramer", "role": "Tester" }
+    ]
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "universes": ["seinfeld"],
+  "capacity": 10,
+  "overflow": "diegetic-expansion"
+}

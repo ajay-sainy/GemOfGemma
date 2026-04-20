@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_service_description">GemOfGemma uses accessibility to automate phone actions on your behalf, such as tapping buttons and filling text fields.</string>
+</resources>

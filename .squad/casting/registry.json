@@ -1,0 +1,42 @@
+[
+  {
+    "persistent_name": "Jerry",
+    "role": "Lead",
+    "universe": "seinfeld",
+    "created_at": "2026-04-18T00:00:00Z",
+    "legacy_named": false,
+    "status": "active"
+  },
+  {
+    "persistent_name": "George",
+    "role": "Android Dev",
+    "universe": "seinfeld",
+    "created_at": "2026-04-18T00:00:00Z",
+    "legacy_named": false,
+    "status": "active"
+  },
+  {
+    "persistent_name": "Elaine",
+    "role": "ML Engineer",
+    "universe": "seinfeld",
+    "created_at": "2026-04-18T00:00:00Z",
+    "legacy_named": false,
+    "status": "active"
+  },
+  {
+    "persistent_name": "Kramer",
+    "role": "Tester",
+    "universe": "seinfeld",
+    "created_at": "2026-04-18T00:00:00Z",
+    "legacy_named": false,
+    "status": "active"
+  },
+  {
+    "persistent_name": "Peterman",
+    "role": "UI Expert",
+    "universe": "seinfeld",
+    "created_at": "2026-04-19T12:00:00Z",
+    "legacy_named": false,
+    "status": "active"
+  }
+]

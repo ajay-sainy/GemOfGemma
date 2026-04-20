@@ -1,0 +1,40 @@
+# Android
+*.iml
+.gradle
+/local.properties
+local.properties
+/.idea
+.DS_Store
+**/build/
+/captures
+.externalNativeBuild
+.cxx
+*.apk
+*.aab
+*.jks
+*.keystore
+
+# Model files
+*.litertlm
+
+# Debug artifacts
+screenshot*.png
+emulator-*.png
+tool-screen*.png
+ui-*.xml
+dump.xml
+prefs.xml
+emulator-*.xml
+tool-*.xml
+
+# Node
+node_modules/
+package-lock.json
+
+# Squad: ignore runtime state (logs, inbox, sessions)
+.squad/orchestration-log/
+.squad/log/
+.squad/decisions/inbox/
+.squad/sessions/
+# Squad: SubSquad activation file (local to this machine)
+.squad-workstream
